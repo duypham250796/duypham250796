@@ -3,6 +3,7 @@
 <div class="preloader"></div>
 
 <!-- Header Layout -->
+@include('layouts.header')
 <!-- // END header-layout -->
 
 <!-- App Settings FAB -->
